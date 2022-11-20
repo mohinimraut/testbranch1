@@ -1,7 +1,7 @@
 import React from 'react'
 
 function File1() {
-    const arr1=["aa","bb","cc","dd","ee","oo","foo","kk","rr"]
+    const arr1=["aa","bb"]
    
   return (
     <div>
